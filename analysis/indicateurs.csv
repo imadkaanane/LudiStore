@@ -1,0 +1,12 @@
+﻿indicateur;valeur
+transactions;179930.00000000
+commandes;89965.00000000
+ca_net;10671885.21000000
+spearman_age_ca;0.00644024
+spearman_p;0.54126841
+kruskal_prix_p;0.26559471
+epsilon_carre;0.00036259
+mae_ets;5584.29819950
+mae_naif;24544.84166667
+train_mois;30.00000000
+test_mois;6.00000000

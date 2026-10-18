@@ -1,0 +1,14 @@
+﻿table;grain;colonne;type;unite_ou_sens;manquants
+clients;client;client_id;int64;Identifiant fictif;0
+clients;client;age;int64;années;0
+clients;client;segment;str;particulier/professionnel fictif;0
+articles;article;article_id;int64;Identifiant fictif;0
+articles;article;categorie;str;catégorie produit;0
+articles;article;prix;float64;EUR/unité (transaction : EUR/bien);0
+transactions;ligne commande;ligne_id;int64;Identifiant fictif;0
+transactions;ligne commande;commande_id;int64;Identifiant fictif;0
+transactions;ligne commande;client_id;int64;Identifiant fictif;0
+transactions;ligne commande;article_id;int64;Identifiant fictif;0
+transactions;ligne commande;date;str;ISO yyyy-MM-dd;0
+transactions;ligne commande;quantite;int64;unités;0
+transactions;ligne commande;retour;int64;unités retournées;0
